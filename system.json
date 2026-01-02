@@ -2,13 +2,13 @@
   "id": "starwarsffg",
   "title": "Star Wars FFG",
   "description": "A system for playing Star Wars FFG games.",
-  "version": "1.910",
+  "version": "1.911",
   "compatibility": {
     "minimum": 12,
     "verified": 12,
     "maximum": 13
   },
-  "authors": [{"name": "Esrin"}, {"name": "CStadther"}, {"name": "Wrycu"}, {"name": "Jaxxa"}],
+  "authors": [{"name": "Esrin"}, {"name": "CStadther"}, {"name": "Wrycu"}, {"name": "Jaxxa"}, {"name": "WookieeMatt"}],
   "esmodules": ["modules/dice-pool-ffg.js", "modules/swffg-main.js", "lib/slimselect/slimselect.js", "lib/datatables/datatables.min.js"],
   "styles": ["styles/starwarsffg.css", "lib/pure/grids-min.css", "lib/slimselect/slimselect.css", "lib/datatables/datatables.min.css"],
   "scripts": ["lib/jszip/jszip.min.js", "lib/jxon/jxon.min.js", "lib/slimselect/slimselect.js"],
